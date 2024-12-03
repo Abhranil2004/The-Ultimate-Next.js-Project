@@ -1,7 +1,7 @@
 <div align="center">
   <br />
-    <a href="https://www.jsmastery.pro/ultimate-next-course" target="_blank">
-      <img src="https://github.com/user-attachments/assets/769882e6-bae6-4932-a117-829cf34f809f" alt="Project Banner">
+    <a href="https://my-portfolio-abhranil-dutta.netlify.app/" target="_blank">
+      <img src="https://github.com/Abhranil2004/jsmasterypro_devflow-main/blob/general/Screenshot%202024-12-04%20024858.png" alt="Project Banner">
     </a>
   <br />
 
@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/-Open_AI-black?style=for-the-badge&logoColor=white&logo=openai&color=412991" alt="openai" />
   </div>
 
-  <h3 align="center">The Ultimate Next.js Course</h3>
+  <h3 align="center">The Ultimate Next.js Project</h3>
 
    <div align="center">
      Build this project step by step with our detailed course on <a href="https://www.jsmastery.pro" target="_blank"><b>JavaScript Mastery PRO</b></a> Website. Join the JSM PRO family!
@@ -176,8 +176,5 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
 
-## <a name="links">🔗 Assets</a>
-
-Assets used in the project can be found [here](https://drive.google.com/file/d/1nBru53dqIY4__A_WsburhpdiWUbdbncY/view?usp=sharing)
 
 #
